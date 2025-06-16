@@ -127,6 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="module1.cpp" />
+    <ClCompile Include="module2.cpp" />
+    <ClCompile Include="module3.cpp" />
     <ClCompile Include="practica.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
